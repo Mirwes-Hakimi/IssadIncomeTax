@@ -18,12 +18,7 @@ function Footer() {
     {/* Define the footer section */}
       <section className='footer-subscription'>
         {/* Display address */}
-        <p className='footer-subscription-heading'>
-        Address:
-        </p>
-        <p className='footer-subscription-text'>
-        2465 Salvio St C, Concord, CA 94520
-        </p>
+      
 
         <li className="window-9-5-nav">
         <h1><a class="phone-link" href="tel:+15109573496"
@@ -31,7 +26,7 @@ function Footer() {
          textDecoration: 'none', 
          listStyle: 'none' 
           
-           }}> (925) 822-6524</a>
+           }}> (916) 688-2354</a>
             </h1>
       </li>
         <div className='input-areas'>
@@ -75,7 +70,7 @@ function Footer() {
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
              
-             Issad Income Tax
+              Insaf Income Tax
             </Link>
           </div>
           <small className='website-rights'> Web Design by Hakimi © 2023</small>
