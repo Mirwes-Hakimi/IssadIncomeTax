@@ -23,7 +23,7 @@ function Navbar() {
      {/* Define navigation links */}
 
       <Link to='/' className="navbar-logo" onClick={closeMobileMenu}>
-         Issad Income Tax
+         Insaf Income Tax
       </Link>
     <div className='menu-icon' onClick={handleClick}>
     {click ? <FaTimes /> : <FaBars />}
